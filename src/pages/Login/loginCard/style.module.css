@@ -1,0 +1,15 @@
+.container {
+
+    background-color: red;
+    border-radius: 10px;
+    width: 108px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.container>* {
+    margin: 10px 0px;
+}

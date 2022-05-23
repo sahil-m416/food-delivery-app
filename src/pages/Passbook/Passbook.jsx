@@ -3,6 +3,7 @@ import styles from './style.module.css'
 export default function Passbook() {
     return (
         <>
+
             <h1>Passbook</h1>
             <div>
                 <div className={styles.passbookDetails}>
